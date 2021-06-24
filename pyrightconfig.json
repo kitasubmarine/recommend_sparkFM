@@ -1,0 +1,13 @@
+{
+  "reportGeneralTypeIssues": false,
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "reportUnusedImport": true,
+  "reportUnusedClass": true,
+  "reportUnusedFunction": true,
+  "reportUnusedVariable": true,
+  "reportDuplicateImport": true,
+  "pythonVersion": "3.8",
+  "pythonPlatform": "Linux",
+  "ignore": ["./work"]
+}

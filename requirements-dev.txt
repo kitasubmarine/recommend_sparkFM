@@ -1,0 +1,12 @@
+mypy
+flake8==3.8.4
+flake8-quotes==3.2.0
+black==20.8b1
+ipykernel==5.3.4
+isort==5.6.4
+pytest
+pytest-datadir
+pytest-mock
+pydocstyle
+moto
+Werkzeug==2.0.0

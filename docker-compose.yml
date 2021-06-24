@@ -1,0 +1,15 @@
+version: "3"
+services:
+  recommend_sparkFM:
+    build:
+      context: .
+      args:
+        WORKDIR: /recommend_sparkFM
+    volumes:
+      - .:/recommend_sparkFM
+      - ${USERPROFILE-~}/.ssh:/home/vscode/.ssh
+    image: recommend_sparkFM-image
+    container_name: recommend_sparkFM-container
+    tty: true
+    networks:
+      - default

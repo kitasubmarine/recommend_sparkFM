@@ -1,0 +1,7 @@
+[flake8]
+max-line-length=120
+exclude=work
+max-complexity=20
+inline-quotes=single
+multiline-quotes=single
+docstring-quotes=double

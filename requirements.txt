@@ -1,0 +1,8 @@
+boto3>=1.16.43
+loguru>=0.5.3
+mlflow>=1.17.0
+numpy>=1.17.2
+pandas>=0.25.1
+pyspark>=3.0.0
+PyYAML>=5.4.1
+s3fs>=0.2.1
