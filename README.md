@@ -1,0 +1,2 @@
+# recommend_sparkFM
+spark.mlのFMをレコメンド目的に使いやすくしたい
